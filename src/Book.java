@@ -11,6 +11,7 @@ public class Book {
         author = "Jane Austen";
         // TODO: set the instance variable to the parameter
         rating = pRating;
+       // print();
         pRating = 100;
 
     }
